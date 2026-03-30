@@ -14,7 +14,6 @@ Thumbs.db
 *.swp
 *.swo
 .idea/
-.vscode/
 *.code-workspace
 
 # Logs
@@ -91,3 +90,5 @@ session.json
 journal/2026-03-11-safe-remove-design.md
 mole.cmd
 mo.cmd
+config.bat
+node_modules
