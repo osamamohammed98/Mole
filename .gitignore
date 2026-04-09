@@ -12,8 +12,6 @@ Thumbs.db
 *.swp
 *.swo
 .idea/
-.vscode/*.code-workspace
-.vscode/settings.json
 
 # Logs
 *.log
@@ -82,3 +80,5 @@ AGENTS.md
 mole_guidelines.md
 CLAUDE.md
 .claude/settings.local.json
+config.bat
+node_modules
