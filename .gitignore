@@ -12,8 +12,6 @@ Thumbs.db
 *.swp
 *.swo
 .idea/
-.vscode/*.code-workspace
-.vscode/settings.json
 
 # Logs
 *.log
@@ -81,3 +79,5 @@ coverage.html
 session.json
 run_tests.ps1
 mole_guidelines.md
+config.bat
+node_modules
